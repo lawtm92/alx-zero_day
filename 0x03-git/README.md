@@ -1,1 +1,1 @@
-My git readme
+My git repository readme
